@@ -1,0 +1,59 @@
+*{
+
+    font-family: 'Cormorant SC', serif;
+    margin: 0px;
+    padding: 0px;}
+
+a{
+text-decoration: none;}
+
+#primerHeader{
+    position: absolute;
+    right: 20px;
+    text-size-adjust:50px;}
+
+.textprimerHeader{
+    text-decoration:none;
+    color: white;
+    text-align:end;
+    font-size: 25px;
+    padding: 10px;}    
+
+a:hover{
+
+    color:yellow;}
+
+#tituloPrincipal{
+    
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+    padding: 20px;
+    color: white;}
+
+#anuncio1{
+background-color: yellow;
+color: black;
+height: 30px;
+text-align: center;
+text-decoration: none;}
+
+#nuevoalbumdiv{
+    position: absolute;
+    width: 1000px;
+    left: 25%;
+    top: 15%;
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;
+    color: white;}
+
+#imgAlbum1{
+position: relative;
+padding: 15px;}
+
+#titulodiv1{
+    padding: 15px;}
+
+#textodiv1{
+    position: absolute;
+    top: 150px;
+    left: 270px;}
